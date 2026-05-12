@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Lubomir Krastev</h1>
 
+## Connections:
+
+- 📧 Email - lubo.krystev1@gmail.com
+- 💼 LinkedIn - https://linkedin.com/in/lyubomir-krastev
 <!--
 **LubomirKrastev/LubomirKrastev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
