@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lubomir Krastev</h1>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LubomirKrastev&theme=default" />
+
 ## Connections:
 
 - 📧 Email - lubo.krystev1@gmail.com
