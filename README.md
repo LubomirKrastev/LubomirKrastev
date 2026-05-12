@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Lubomir Krastev</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LubomirKrastev&layout=compact&theme=tokyonight" />
+</p>
+
 ## Connections:
 
 - 📧 Email - lubo.krystev1@gmail.com
